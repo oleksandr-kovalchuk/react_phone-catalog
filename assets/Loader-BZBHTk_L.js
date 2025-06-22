@@ -1,0 +1,1 @@
+import{r as t,G as e,j as o}from"./index-Bvyn_dXy.js";const r="/react_phone-catalog/assets/logo_dark-BfREnrH9.svg",l="/react_phone-catalog/assets/logo-CU5-laXR.svg",n=()=>{const{theme:s}=t.useContext(e),a=s==="light";return o.jsx("div",{className:"loader",children:o.jsx("img",{src:a?l:r,alt:"Application Logo",className:"loader__image"})})};export{n as L};
